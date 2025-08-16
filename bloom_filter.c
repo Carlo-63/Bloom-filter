@@ -25,7 +25,6 @@
  * Pertanto l'esecuzione arriva a questo punto:
  * bloom[1] |= 00100000 (32 in decimale)
  *
- * |= corrisponde ad una not, pertanto imposta ad 1 solo il bit di bit_mask
  * Otteniamo quindi:
  * OR
  * 00100000
